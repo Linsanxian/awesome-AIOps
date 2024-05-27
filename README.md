@@ -19,8 +19,8 @@
 * [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
 
 ## Course and Slides
-* [Tsinghua-Peidan](http://netman.aiops.org/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
-* [基于机器学习的智能运维](http://netman.aiops.org/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
+* [Tsinghua-Peidan](https://netman.aiops.org/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
+* [基于机器学习的智能运维](https://netman.aiops.org/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
 
 ## Industry Practice
 -------------------------------------------------------------------------------
@@ -63,14 +63,14 @@
 
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
-* [基于机器学习的智能运维](http://netman.aiops.org/wp-content/uploads/2018/04/peidan.pdf)
-* [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.aiops.orgops.org/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
+* [基于机器学习的智能运维](https://netman.aiops.org/wp-content/uploads/2018/04/peidan.pdf)
+* [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](https://netman.aiops.org/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
-* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.orgops.org/wp-content/uploads/2018/05/PID5338621.pdf)
+* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.org/wp-content/uploads/2018/05/PID5338621.pdf)
 * [KPI-TSAD: A Time-Series Anomaly Detector for KPI Monitoring in Cloud Applications](https://www.mdpi.com/2073-8994/11/11/1350)
 * [Anomaly Detection Based on Mining Six Local Data Features and BP Neural Network ](https://www.mdpi.com/2073-8994/11/4/571)
-* [Generic and Robust Localization of Multi-Dimensional Root Causes](https://netman.aiops.orgops.org/wp-content/uploads/2019/08/camera_ready.pdf)
+* [Generic and Robust Localization of Multi-Dimensional Root Causes](https://netman.aiops.org/wp-content/uploads/2019/08/camera_ready.pdf)
 * [Papers from Tsinghua NetMan Lab](https://netman.aiops.org/publications/)
 
 ## Dataset
